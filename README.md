@@ -40,20 +40,16 @@ Matplotlib & Seaborn – Data visualization
 
 📜 Installation
 Clone the repository:
-bash
-Copy
-Edit
-git clone https://github.com/your-username/supermarket-data-analysis.git
+
+
+git clone https://github.com/ehteshan6/supermarket-data-analysis.git
 cd supermarket-data-analysis
 Install required dependencies:
-bash
-Copy
-Edit
+
+
 pip install pandas numpy matplotlib seaborn jupyter notebook  
 Run the Jupyter Notebook:
-bash
-Copy
-Edit
+
 jupyter notebook
 📌 Usage
 Open the Jupyter Notebook and run the code cells step by step.
